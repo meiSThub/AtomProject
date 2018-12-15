@@ -73,4 +73,6 @@ designAppBarLayoutCollapsingToolbarLayout### windows下: 常用快捷键
 - markdown-image-paste
   > 贴图工具，这个是非常好用的功能，如果你输入的图片非常多，markdown可能是你的噩梦，但是这个工具可以减少一些复杂的操作，但具体的要看你的熟练程度，本人写博客一般都不会写特别长，但是喜欢用图片，一幅图胜过一百句话。
 - LaTeX 是写数学公式的法宝
--
+- 换行：可以在前一行的末尾加入至少两个空格
+  然后换行写其它的文字或者添加换行符<br/>
+- markdown语法：http://xianbai.me/learn-md/article/syntax/paragraphs-and-line-breaks.html
