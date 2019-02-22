@@ -13,13 +13,13 @@ designAppBarLayoutCollapsingToolbarLayout### windows下: 常用快捷键
   有序列表则使用数字接着一个英文句点：
 
 - 代码区块
-
+language-markdown
   要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以，例如，下面的输入：
 
- ```
+ ``` java
  <android.support.design.widget.AppBarLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"language-markdown
+            android:layout_height="wrap_content"
             app:layout_behavior="android.support.design.widget.AppBarLayout$Behavior"
             android:id="@+id/appbar">
 ```
@@ -60,7 +60,7 @@ designAppBarLayoutCollapsingToolbarLayout### windows下: 常用快捷键
   - 支持Latex公式。(Ctrl + Shift + X)
 
 - markdown-scroll-sync 同步滚动插件
-- markdown-table-editor 表格生成插件
+- markdown-table-editor 表格生成插件markdown-preview
 
 | name | age |
 | ---- | --- |
@@ -72,6 +72,9 @@ designAppBarLayoutCollapsingToolbarLayout### windows下: 常用快捷键
 
 - markdown-image-paste
   > 贴图工具，这个是非常好用的功能，如果你输入的图片非常多，markdown可能是你的噩梦，但是这个工具可以减少一些复杂的操作，但具体的要看你的熟练程度，本人写博客一般都不会写特别长，但是喜欢用图片，一幅图胜过一百句话。
+  - 使用截图工具将图片复制到系统剪切板。
+  - 在Markdown新起一行输入文件名。
+  - Ctrl + V 会自动把图片保存到Markdown文件相同目录下(因此要求Markdown文件应该先保存)，并命名为刚输入的文件名，同时在刚才输入文件名行处生成img标签。
 - LaTeX 是写数学公式的法宝
 - 换行：可以在前一行的末尾加入至少两个空格
   然后换行写其它的文字或者添加换行符<br/>
