@@ -75,7 +75,17 @@ language-markdown
   - 使用截图工具将图片复制到系统剪切板。
   - 在Markdown新起一行输入文件名。
   - Ctrl + V 会自动把图片保存到Markdown文件相同目录下(因此要求Markdown文件应该先保存)，并命名为刚输入的文件名，同时在刚才输入文件名行处生成img标签。
+  - 引用图片的标签
+![](http://img02.tooopen.com/images/20160509/tooopen_sy_161967094653.jpg)
+
+  - 或者用html标签
+  <img src="http://img02.tooopen.com/images/20160509/tooopen_sy_161967094653.jpg"/>
+
 - LaTeX 是写数学公式的法宝
 - 换行：可以在前一行的末尾加入至少两个空格
   然后换行写其它的文字或者添加换行符<br/>
 - markdown语法：http://xianbai.me/learn-md/article/syntax/paragraphs-and-line-breaks.html
+
+参考链接：
+1. https://mazhuang.org/2017/09/01/markdown-odd-skills/
+2. https://www.cnblogs.com/fanzhidongyzby/p/6637084.html
