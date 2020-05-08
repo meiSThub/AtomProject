@@ -8,7 +8,7 @@
 | 定位高亮错误     | F2                     | F2                   |
 | 去掉多余import   | ctrl + alt + O         | ctrl + option + O    |
 | 定位指定行       | ctrl + g               | command + L          |
-| 选中当前高亮代码 | ctrl + w               | option +  ⬆️        |
+| 选中当前高亮代码 | ctrl + w               | ctrl+w      |
 | 跳转到xml页面    | Ctrl + Alt + Home      | ctrl + command + ⬆️  |
 | 最近使用到文件   | ctrl + E               | command + E          |
 | 自动提取参数    | Ctrl + Alt + P         | Cmd + Alt + P        |
