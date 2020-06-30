@@ -22,17 +22,17 @@ language-markdown
             android:layout_height="wrap_content"
             app:layout_behavior="android.support.design.widget.AppBarLayout$Behavior"
             android:id="@+id/appbar">
-```
+ ```
 
 - 链接：Markdown 支持两种形式的链接语法： 行内式和参考式两种形式
 
   不管是哪一种，链接文字都是用 [方括号] 来标记。
 
   1. 要建立一个行内式的链接，只要在方块括号后面紧接着圆括号并插入网址链接即可:
-    [markdown基本语法](https://www.jianshu.com/p/f3fd881548ad)
+      [markdown基本语法](https://www.jianshu.com/p/f3fd881548ad)
 
      如果你是要链接到同样主机的资源，你可以使用相对路径：
-    [本地图片](C:/Users/akulaku/Desktop/ic_adjust_limit_top_bg.png)
+      [本地图片](C:/Users/akulaku/Desktop/ic_adjust_limit_top_bg.png)
   2. 参考式的链接是在链接文字的括号后面再接上另一个方括号，而在第二个方括号里面要填入用以辨识链接的标记，接着，在文件的任意处，你可以把这个标记的链接内容定义出来：
 
       - [1] :https://www.jianshu.com/p/f3fd881548ad

@@ -12,3 +12,4 @@
 * npm install （下载，生成插件）
 
 #### 3.重启atom 或者 control + alt + R 刷新atom
+
