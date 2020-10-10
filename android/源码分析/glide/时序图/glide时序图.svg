@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1037mm" xmlns="http://www.w3.org/2000/svg" height="907mm" version="1.1" viewBox="0 0 3921 3429" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rect x="83" y="2" fill="none" width="3836" height="3425" stroke="#d0d0e8" stroke-width="1"/>
+   <polygon fill="#ffffff" points="83,2 83,17 137,17 142,12 142,2 83,2" stroke="#d0d0e8" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="87" y="12" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">glide时序图</text>
+   <polyline fill="none" points="2095,3125 1550,3125" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1550,3125 1564,3122 1564,3128" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1822" y="3121" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onResourceReady(Resource&lt;?&gt; resource)</text>
+   <polyline fill="none" points="34,212 123,212" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="123,212 109,215 109,209" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="82" y="201" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">width(Activity a)</text>
+   <polyline fill="none" points="2178,3037 2107,3037" stroke="#8080c0" stroke-width="1"/>
+   <polyline fill="none" points="2120,3033 2107,3037 2120,3041" stroke="#8080c0" stroke-width="1"/>
+   <text x="2142" y="3022" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onResourceReady(final Resource&lt;?&gt; </text>
+   <text x="2142" y="3032" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">resource)</text>
+   <polyline fill="none" points="1455,1450 1538,1450" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1538,1450 1525,1453 1525,1447" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1497" y="1447" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">begin()</text>
+   <polyline fill="none" points="1095,1437 1443,1437" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1443,1437 1430,1440 1430,1434" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1269" y="1433" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">runRequest(Request request)</text>
+   <polyline fill="none" points="135,1130 1325,1130" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1325,1130 1312,1133 1312,1127" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="730" y="1126" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildTarget(ImageView view, Class&lt;Z&gt; clazz)</text>
+   <polyline fill="none" points="977,987 1083,987" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1083,987 1069,990 1069,984" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1029" y="984" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">load(String url）</text>
+   <polyline fill="none" points="477,974 965,974" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="965,974 952,977 952,971" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="721" y="970" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">load(String url）</text>
+   <polyline fill="none" points="485,906 527,906 527,928 481,928" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="494,924 481,928 494,932" stroke="#8080c0" stroke-width="1"/>
+   <text x="577" y="923" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回DrawableTypeRequest对象</text>
+   <polyline fill="none" points="705,895 485,895" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="498,891 485,895 498,899" stroke="#8080c0" stroke-width="1"/>
+   <text x="595" y="891" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回DrawableTypeRequest对象</text>
+   <polyline fill="none" points="139,797 700,797" stroke="#8080c0" stroke-width="1"/>
+   <polyline fill="none" points="687,801 700,797 687,793" stroke="#8080c0" stroke-width="1"/>
+   <text x="370" y="790" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildModelLoader()</text>
+   <polyline fill="none" points="135,740 177,740 177,762 139,762" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="139,762 152,759 152,765" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="193" y="755" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildModelLoader</text>
+   <polyline fill="none" points="346,539 575,539" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="575,539 562,542 562,536" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="460" y="535" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">setRequestManager</text>
+   <polyline fill="none" points="1203,1086 1095,1086" stroke="#8080c0" stroke-width="1"/>
+   <polyline fill="none" points="1108,1082 1095,1086 1108,1090" stroke="#8080c0" stroke-width="1"/>
+   <text x="1136" y="1079" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">into(ImageView view)</text>
+   <polyline fill="none" points="3554,3305 3779,3305" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="3779,3305 3765,3308 3765,3302" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="3666" y="3301" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">setImageDrawable(Drawable drawable)</text>
+   <polyline fill="none" points="3689,3266 3554,3266" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="3554,3266 3567,3263 3567,3269" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="3594" y="3258" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">setResource(GlideDrawable resource)</text>
+   <polyline fill="none" points="3554,3230 3689,3230" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="3689,3230 3676,3233 3676,3227" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="3621" y="3226" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onResourceReady(Z resource, GlideAnimation&lt;? super Z&gt; glideAnimation)</text>
+   <polyline fill="none" points="1550,3195 3542,3195" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="3542,3195 3529,3198 3529,3192" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2546" y="3192" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onResourceReady(GlideDrawable resource, GlideAnimation&lt;? super GlideDrawable&gt; animation)</text>
+   <polyline fill="none" points="1550,3157 1623,3157 1623,3178 1550,3178" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1550,3178 1564,3175 1564,3181" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1688" y="3168" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onResourceReady(Resource&lt;?&gt; resource, R result)</text>
+   <polyline fill="none" points="1885,1802 2095,1802" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2095,1802 2081,1805 2081,1799" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1989" y="1799" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">addCallback(ResourceCallback callback)，这个参数其实就是GenericRequest</text>
+   <polyline fill="none" points="2107,3085 2149,3085 2149,3106 2107,3106" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2107,3106 2120,3103 2120,3109" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2151" y="3099" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">发送一个异步消息转到主线程，最终执行handleResultOnMainThread()方法</text>
+   <polyline fill="none" points="2190,2978 2232,2978 2232,2999 2190,2999" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2190,2999 2203,2996 2203,3002" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2297" y="2990" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onLoadComplete(Resource resource)</text>
+   <polyline fill="none" points="2265,2931 2190,2931" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="2203,2927 2190,2931 2203,2935" stroke="#8080c0" stroke-width="1"/>
+   <text x="2227" y="2928" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GlideBitmapDrawableResource</text>
+   <polyline fill="none" points="3185,2871 2277,2871" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="2290,2867 2277,2871 2290,2875" stroke="#8080c0" stroke-width="1"/>
+   <text x="2731" y="2867" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GlideBitmapDrawableResource对象</text>
+   <polyline fill="none" points="3364,2853 3191,2853" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="3205,2849 3191,2853 3205,2857" stroke="#8080c0" stroke-width="1"/>
+   <text x="3277" y="2850" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GlideBitmapDrawableResource</text>
+   <polyline fill="none" points="3191,2823 3357,2823" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="3357,2823 3344,2826 3344,2820" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="3311" y="2815" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">transcode(Resource&lt;Bitmap&gt; toTranscode)</text>
+   <polyline fill="none" points="2277,2803 3179,2803" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="3179,2803 3166,2806 3166,2800" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2727" y="2800" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">transcode(Resource&lt;GifBitmapWrapper&gt; toTranscode)</text>
+   <polyline fill="none" points="2267,2754 2346,2754 2346,2783 2277,2783" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2277,2783 2290,2780 2290,2786" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2358" y="2773" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">transcode（）</text>
+   <polyline fill="none" points="2273,2709 2316,2709 2316,2730 2277,2730" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2277,2730 2290,2727 2290,2733" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2315" y="2716" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">transformEncodeAndTranscode(Resource&lt;T&gt; decoded)</text>
+   <polyline fill="none" points="2587,2629 2281,2629" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="2294,2625 2281,2629 2294,2633" stroke="#8080c0" stroke-width="1"/>
+   <text x="2434" y="2625" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GifBitmapWrapperResource对象</text>
+   <polyline fill="none" points="2742,2585 2597,2585" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="2610,2581 2597,2585 2610,2589" stroke="#8080c0" stroke-width="1"/>
+   <text x="2669" y="2581" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GifBitmapWrapper对象</text>
+   <polyline fill="none" points="2869,2573 2748,2573" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="2761,2569 2748,2573 2761,2577" stroke="#8080c0" stroke-width="1"/>
+   <text x="2804" y="2565" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回BitmapResource对象</text>
+   <polyline fill="none" points="3045,2567 2873,2567" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="2886,2563 2873,2567 2886,2571" stroke="#8080c0" stroke-width="1"/>
+   <text x="2959" y="2563" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回BitmapResource对象</text>
+   <polyline fill="none" points="2873,2540 3039,2540" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="3039,2540 3026,2543 3026,2537" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2956" y="2536" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">obtain（）</text>
+   <polyline fill="none" points="2964,2516 2873,2516" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="2886,2512 2873,2516 2886,2520" stroke="#8080c0" stroke-width="1"/>
+   <text x="2918" y="2513" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回Bitmap对象</text>
+   <polyline fill="none" points="2873,2490 2956,2490" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2956,2490 2943,2493 2943,2487" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2914" y="2487" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decode()</text>
+   <polyline fill="none" points="2748,2480 2861,2480" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2861,2480 2848,2483 2848,2477" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2804" y="2476" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decode()</text>
+   <polyline fill="none" points="2597,2463 2736,2463" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2736,2463 2723,2466 2723,2460" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2666" y="2460" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decode()</text>
+   <polyline fill="none" points="2597,2421 2639,2421 2639,2442 2597,2442" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2597,2442 2610,2439 2610,2445" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2663" y="2431" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decodeBitmapWrapper()</text>
+   <polyline fill="none" points="2597,2377 2639,2377 2639,2398 2597,2398" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2597,2398 2610,2395 2610,2401" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2646" y="2389" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decodeStream（）</text>
+   <polyline fill="none" points="2593,2333 2635,2333 2635,2354 2597,2354" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2597,2354 2610,2351 2610,2357" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2635" y="2346" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decode（）</text>
+   <text x="2940" y="2305" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">图片解吗</text>
+   <polyline fill="none" points="2281,2330 2581,2330" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2581,2330 2568,2333 2568,2327" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2430" y="2316" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decode(ImageVideoWrapper source, int </text>
+   <text x="2430" y="2326" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">width, int height)</text>
+   <polyline fill="none" points="1649,2312 2269,2312" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="2255,2316 2269,2312 2255,2308" stroke="#8080c0" stroke-width="1"/>
+   <text x="1958" y="2309" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GifBitmapWrapperResourceDecoder对象</text>
+   <polyline fill="none" points="2269,2273 1657,2273" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1657,2273 1670,2270 1670,2276" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1962" y="2269" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getSourceDecoder()</text>
+   <polyline fill="none" points="2277,2233 2319,2233 2319,2254 2281,2254" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2281,2254 2294,2251 2294,2257" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2348" y="2247" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decodeFromSourceData()</text>
+   <text x="2875" y="2100" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">执行网络请求</text>
+   <text x="2875" y="2110" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">，加载图片</text>
+   <polyline fill="none" points="2356,2200 2277,2200" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="2290,2196 2277,2200 2290,2204" stroke="#8080c0" stroke-width="1"/>
+   <text x="2316" y="2197" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回ImageVideoWrapper</text>
+   <polyline fill="none" points="2455,2173 2363,2173" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="2376,2169 2363,2173 2376,2177" stroke="#8080c0" stroke-width="1"/>
+   <text x="2402" y="2169" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回InputStream</text>
+   <polyline fill="none" points="2461,2127 2509,2127 2509,2148 2461,2148" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2461,2148 2474,2145 2474,2151" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2548" y="2142" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getStreamForSuccessfulRequest()</text>
+   <polyline fill="none" points="2461,2078 2509,2078 2509,2100 2461,2100" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2461,2100 2474,2097 2474,2103" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2526" y="2094" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">loadDataWithRedirects()</text>
+   <polyline fill="none" points="2363,2056 2449,2056" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2449,2056 2435,2059 2435,2053" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2406" y="2053" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">loadData(Priority priority)</text>
+   <polyline fill="none" points="2277,2035 2351,2035" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2351,2035 2338,2038 2338,2032" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2313" y="2031" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">loadData(Priority priority)</text>
+   <polyline fill="none" points="2273,1981 2315,1981 2315,2002 2277,2002" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2277,2002 2290,1999 2290,2005" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2329" y="1993" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decodeSource()</text>
+   <polyline fill="none" points="2194,1949 2266,1965" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2266,1965 2252,1965 2254,1960" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2258" y="1956" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decodeFromSource()</text>
+   <polyline fill="none" points="2184,1914 2296,1914 2296,1940 2194,1940" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2194,1940 2207,1937 2207,1943" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2312" y="1930" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decodeFromSource()</text>
+   <polyline fill="none" points="2190,1866 2232,1866 2232,1887 2194,1887" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2194,1887 2207,1884 2207,1890" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2231" y="1881" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decode()</text>
+   <polyline fill="none" points="2107,1857 2178,1857" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2178,1857 2164,1860 2164,1854" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2142" y="1853" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">run()方法</text>
+   <polyline fill="none" points="1885,1843 2095,1843" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="2095,1843 2081,1846 2081,1840" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1990" y="1839" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">start(EngineRunnable engineRunnable)</text>
+   <polyline fill="none" points="1990,1776 1885,1776" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="1898,1772 1885,1776 1898,1780" stroke="#8080c0" stroke-width="1"/>
+   <text x="1938" y="1773" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回EngineJob对象</text>
+   <polyline fill="none" points="1885,1754 1984,1754" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1984,1754 1971,1757 1971,1751" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1935" y="1750" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">build()</text>
+   <polyline fill="none" points="1550,1750 1873,1750" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1873,1750 1860,1753 1860,1747" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1711" y="1746" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">load()</text>
+   <polyline fill="none" points="1773,1635 1550,1635" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="1564,1631 1550,1635 1564,1639" stroke="#8080c0" stroke-width="1"/>
+   <text x="1661" y="1631" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回ImageVideoFetcher对象</text>
+   <polyline fill="none" points="970,1611 1768,1611" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="1755,1615 1768,1611 1755,1607" stroke="#8080c0" stroke-width="1"/>
+   <text x="1369" y="1608" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回HttpUrlFetcher对象</text>
+   <polyline fill="none" points="1768,1583 977,1583" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="977,1583 990,1580 990,1586" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1372" y="1579" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getResourceFetcher(String model, int width, int height)</text>
+   <polyline fill="none" points="1550,1561 1768,1561" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1768,1561 1755,1564 1755,1558" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1659" y="1557" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getResourceFetcher()</text>
+   <polyline fill="none" points="1651,1720 1550,1720" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="1564,1716 1550,1720 1564,1724" stroke="#8080c0" stroke-width="1"/>
+   <text x="1600" y="1716" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GifBitmapWrapperDrawableTranscoder对象</text>
+   <polyline fill="none" points="1550,1677 1645,1677" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1645,1677 1631,1680 1631,1674" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1597" y="1674" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getTranscoder()</text>
+   <polyline fill="none" points="1652,1542 1550,1542" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="1564,1538 1550,1542 1564,1546" stroke="#8080c0" stroke-width="1"/>
+   <text x="1601" y="1538" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回ImageVideoModelLoader对象</text>
+   <polyline fill="none" points="1550,1512 1645,1512" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1645,1512 1631,1515 1631,1509" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1594" y="1506" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getModelLoader()</text>
+   <polyline fill="none" points="1550,1469 1592,1469 1592,1490 1550,1490" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1550,1490 1564,1487 1564,1493" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1599" y="1482" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onSizeReady()</text>
+   <polyline fill="none" points="1093,1378 1196,1378 1196,1404 1095,1404" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="1108,1400 1095,1404 1108,1408" stroke="#8080c0" stroke-width="1"/>
+   <text x="1201" y="1397" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GenericRequest对象</text>
+   <polyline fill="none" points="1103,1286 1200,1286 1200,1307 1107,1307" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1107,1307 1120,1304 1120,1310" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1201" y="1299" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">obtainRequest()</text>
+   <polyline fill="none" points="1099,1249 1181,1249 1181,1271 1103,1271" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1103,1271 1116,1268 1116,1274" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1222" y="1261" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildRequestRecursive()</text>
+   <polyline fill="none" points="1089,1217 1192,1217 1192,1238 1099,1238" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1099,1238 1112,1235 1112,1241" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1199" y="1227" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildRequest()</text>
+   <polyline fill="none" points="1095,1168 1137,1168 1137,1189 1095,1189" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1095,1189 1108,1186 1108,1192" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1144" y="1181" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">into(Y target)</text>
+   <polyline fill="none" points="1331,1156 1095,1156" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="1108,1152 1095,1156 1108,1160" stroke="#8080c0" stroke-width="1"/>
+   <text x="1212" y="1152" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GlideDrawableImageViewTarget对象</text>
+   <polyline fill="none" points="135,347 338,347" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="338,347 324,350 324,344" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="236" y="344" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">get(Activity activity)</text>
+   <polyline fill="none" points="1083,1102 135,1105" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="135,1105 148,1102 148,1108" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="608" y="1100" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildImageViewTarget(ImageView imageView, Class&lt;R&gt; transcodedClass)</text>
+   <polyline fill="none" points="34,1046 1203,1046" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="1203,1046 1189,1049 1189,1043" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="618" y="1043" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">into(ImageView view)</text>
+   <polyline fill="none" points="712,794 754,794 754,815 716,815" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="716,815 729,812 729,818" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="760" y="809" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getFactory()</text>
+   <polyline fill="none" points="471,1017 34,1017" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="47,1013 34,1017 47,1021" stroke="#8080c0" stroke-width="1"/>
+   <text x="245" y="1010" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回DrawableTypeRequest对象</text>
+   <polyline fill="none" points="841,883 712,883" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="725,879 712,883 725,887" stroke="#8080c0" stroke-width="1"/>
+   <text x="776" y="880" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回StreamStringLoader对象</text>
+   <polyline fill="none" points="712,853 835,852" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="835,852 822,855 822,849" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="764" y="847" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">build</text>
+   <polyline fill="none" points="473,721 135,724" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="135,724 148,721 148,727" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="304" y="719" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildStreamModelLoader</text>
+   <polyline fill="none" points="481,670 523,670 523,700 485,700" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="485,700 498,697 498,703" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="529" y="681" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">loadGeneric()</text>
+   <polyline fill="none" points="477,621 519,621 519,652 481,652" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="481,652 494,649 494,655" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="519" y="633" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">fromString()</text>
+   <polyline fill="none" points="34,610 465,610" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="465,610 452,613 452,607" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="249" y="606" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">load(String url)</text>
+   <text x="1449" y="408" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">创建透明的Fragment，并添加</text>
+   <text x="1449" y="418" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">到Activity中</text>
+   <polyline fill="none" points="340,575 129,575" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="142,571 129,575 142,579" stroke="#8080c0" stroke-width="1"/>
+   <text x="231" y="572" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回RequestManager对象</text>
+   <polyline fill="none" points="471,503 340,503" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="353,499 340,503 353,507" stroke="#8080c0" stroke-width="1"/>
+   <text x="404" y="496" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回RequestManager对象</text>
+   <polyline fill="none" points="346,461 465,460" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="465,460 452,463 452,457" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="517" y="454" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">RequestManager(Context, Lifecycle, RequestManagerTreeNode)</text>
+   <polyline fill="none" points="346,397 388,397 388,427 350,427" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="350,427 363,424 363,430" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="431" y="414" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getRequestManagerFragment()</text>
+   <polyline fill="none" points="346,367 388,367 388,388 346,388" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="346,388 359,385 359,391" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="398" y="381" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">fragmentGet</text>
+   <polyline fill="none" points="340,295 135,295" stroke="#8080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="148,291 135,295 148,299" stroke="#8080c0" stroke-width="1"/>
+   <text x="232" y="289" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回RequestManagerRetriever实列对象</text>
+   <polyline fill="none" points="135,271 334,271" stroke="#8080c0" stroke-width="1"/>
+   <polygon fill="#8080c0" points="334,271 320,274 320,268" stroke="#8080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="234" y="268" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">get()</text>
+   <defs>
+      <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="97" y="110" fill="url(#Gradient1)" width="64" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="129" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">Glide</text>
+   <polyline fill="none" points="129,158 129,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="123" y="257" fill="url(#Gradient2)" width="12" height="147" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="123" y="724" fill="url(#Gradient3)" width="12" height="93" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="123" y="1105" fill="url(#Gradient4)" width="12" height="50" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="127" y="762" fill="url(#Gradient5)" width="12" height="39" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="123" y="212" fill="url(#Gradient6)" width="12" height="32" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ffffc0"/>
+      </linearGradient>
+   </defs>
+   <ellipse cx="34" cy="118" rx="8" ry="8" fill="url(#Gradient7)" stroke="#0080ff" stroke-width="2"/>
+   <line x1="34" x2="34" y1="126" y2="142" stroke="#0080ff" stroke-width="2"/>
+   <line x1="18" x2="50" y1="134" y2="134" stroke="#0080ff" stroke-width="2"/>
+   <line x1="18" x2="34" y1="158" y2="142" stroke="#0080ff" stroke-width="2"/>
+   <line x1="50" x2="34" y1="158" y2="142" stroke="#0080ff" stroke-width="2"/>
+   <text x="34" y="168" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">Actor_1</text>
+   <polyline fill="none" points="34,158 34,3408" stroke="#0080ff" stroke-width="2" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient8" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="278" y="110" fill="url(#Gradient8)" width="123" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="339" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">RequestManagerRetriever</text>
+   <polyline fill="none" points="340,158 340,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient9" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="334" y="271" fill="url(#Gradient9)" width="12" height="24" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient10" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="334" y="318" fill="url(#Gradient10)" width="12" height="49" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient11" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="334" y="388" fill="url(#Gradient11)" width="12" height="187" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient12" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="338" y="427" fill="url(#Gradient12)" width="12" height="19" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient13" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="338" y="347" fill="url(#Gradient13)" width="12" height="31" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient14" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="522" y="110" fill="url(#Gradient14)" width="118" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="581" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">RequestManagerFragment</text>
+   <polyline fill="none" points="581,158 581,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient15" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="575" y="539" fill="url(#Gradient15)" width="12" height="32" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient16" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="432" y="110" fill="url(#Gradient16)" width="78" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="471" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">RequestManager</text>
+   <polyline fill="none" points="471,158 471,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient17" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="465" y="460" fill="url(#Gradient17)" width="12" height="43" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient18" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="465" y="610" fill="url(#Gradient18)" width="12" height="415" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient19" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="469" y="652" fill="url(#Gradient19)" width="12" height="304" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient20" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="473" y="700" fill="url(#Gradient20)" width="12" height="208" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient21" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="652" y="110" fill="url(#Gradient21)" width="108" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="706" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">GenericLoaderFactory</text>
+   <polyline fill="none" points="706,158 706,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient22" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="700" y="786" fill="url(#Gradient22)" width="12" height="109" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient23" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="704" y="815" fill="url(#Gradient23)" width="12" height="17" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient24" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="772" y="110" fill="url(#Gradient24)" width="138" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="841" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">StreamStringLoader.Factory</text>
+   <polyline fill="none" points="841,158 841,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient25" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="835" y="852" fill="url(#Gradient25)" width="12" height="31" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient26" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="922" y="110" fill="url(#Gradient26)" width="98" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="971" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">StreamStringLoader</text>
+   <polyline fill="none" points="971,158 971,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient27" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="965" y="1583" fill="url(#Gradient27)" width="12" height="28" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient28" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="965" y="973" fill="url(#Gradient28)" width="12" height="47" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient29" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1032" y="110" fill="url(#Gradient29)" width="113" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="1088" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">GenericRequestBuilder</text>
+   <polyline fill="none" points="1089,158 1089,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient30" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1083" y="1083" fill="url(#Gradient30)" width="12" height="89" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient31" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1083" y="1189" fill="url(#Gradient31)" width="12" height="282" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient32" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1087" y="1238" fill="url(#Gradient32)" width="12" height="140" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient33" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1091" y="1270" fill="url(#Gradient33)" width="12" height="87" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient34" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1095" y="1307" fill="url(#Gradient34)" width="12" height="29" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient35" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1083" y="983" fill="url(#Gradient35)" width="12" height="32" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient36" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1157" y="110" fill="url(#Gradient36)" width="103" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="1208" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">DrawableTypeRequest</text>
+   <polyline fill="none" points="1209,158 1209,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient37" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1203" y="1046" fill="url(#Gradient37)" width="12" height="55" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient38" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1272" y="110" fill="url(#Gradient38)" width="118" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="1331" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">ImageViewTargetFactory</text>
+   <polyline fill="none" points="1331,158 1331,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient39" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1325" y="1130" fill="url(#Gradient39)" width="12" height="32" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient40" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1410" y="110" fill="url(#Gradient40)" width="78" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="1449" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">RequestTracker</text>
+   <polyline fill="none" points="1449,158 1449,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient41" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1443" y="1437" fill="url(#Gradient41)" width="12" height="32" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient42" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1500" y="110" fill="url(#Gradient42)" width="88" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="1544" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">GenericRequest</text>
+   <polyline fill="none" points="1544,158 1544,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient43" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1538" y="1490" fill="url(#Gradient43)" width="12" height="276" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient44" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1538" y="3178" fill="url(#Gradient44)" width="12" height="26" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient45" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1538" y="1450" fill="url(#Gradient45)" width="12" height="32" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient46" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1538" y="3125" fill="url(#Gradient46)" width="12" height="32" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient47" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1600" y="110" fill="url(#Gradient47)" width="101" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="1650" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">FixedLoadProvider</text>
+   <polyline fill="none" points="1651,158 1651,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient48" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1645" y="1512" fill="url(#Gradient48)" width="12" height="30" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient49" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1645" y="1677" fill="url(#Gradient49)" width="12" height="43" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient50" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1645" y="2272" fill="url(#Gradient50)" width="12" height="40" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient51" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1713" y="110" fill="url(#Gradient51)" width="122" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="1774" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">ImageVideoModelLoader</text>
+   <polyline fill="none" points="1774,158 1774,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient52" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1768" y="1561" fill="url(#Gradient52)" width="12" height="74" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient53" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1847" y="110" fill="url(#Gradient53)" width="64" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="1879" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">Engine</text>
+   <polyline fill="none" points="1879,158 1879,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient54" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1873" y="1750" fill="url(#Gradient54)" width="12" height="129" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient55" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1923" y="110" fill="url(#Gradient55)" width="134" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="1990" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">Engine.EngineJobFactory</text>
+   <polyline fill="none" points="1990,158 1990,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient56" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="1984" y="1754" fill="url(#Gradient56)" width="12" height="22" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient57" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2069" y="110" fill="url(#Gradient57)" width="64" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="2101" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">EngineJob</text>
+   <polyline fill="none" points="2101,158 2101,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient58" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2095" y="1842" fill="url(#Gradient58)" width="12" height="22" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient59" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2095" y="3031" fill="url(#Gradient59)" width="12" height="56" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient60" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2095" y="3102" fill="url(#Gradient60)" width="12" height="30" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient61" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2095" y="1797" fill="url(#Gradient61)" width="12" height="31" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient62" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2145" y="110" fill="url(#Gradient62)" width="78" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="2184" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">EngineRunnable</text>
+   <polyline fill="none" points="2184,158 2184,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient63" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2178" y="1856" fill="url(#Gradient63)" width="12" height="1129" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient64" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2182" y="1883" fill="url(#Gradient64)" width="12" height="31" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient65" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2182" y="1939" fill="url(#Gradient65)" width="12" height="34" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient66" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2178" y="2999" fill="url(#Gradient66)" width="12" height="45" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient67" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2235" y="110" fill="url(#Gradient67)" width="64" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="2267" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">DecodeJob</text>
+   <polyline fill="none" points="2267,158 2267,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient68" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2261" y="1965" fill="url(#Gradient68)" width="12" height="966" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient69" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2265" y="2002" fill="url(#Gradient69)" width="12" height="684" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient70" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2269" y="2250" fill="url(#Gradient70)" width="12" height="410" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient71" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2265" y="2726" fill="url(#Gradient71)" width="12" height="32" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient72" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2265" y="2783" fill="url(#Gradient72)" width="12" height="120" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient73" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2311" y="110" fill="url(#Gradient73)" width="93" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="2357" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">ImageVideoFetcher</text>
+   <polyline fill="none" points="2357,158 2357,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient74" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2351" y="2035" fill="url(#Gradient74)" width="12" height="165" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient75" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2416" y="110" fill="url(#Gradient75)" width="78" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="2455" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">HttpUrlFetcher</text>
+   <polyline fill="none" points="2455,158 2455,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient76" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2449" y="2056" fill="url(#Gradient76)" width="12" height="25" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient77" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2449" y="2099" fill="url(#Gradient77)" width="12" height="28" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient78" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2449" y="2148" fill="url(#Gradient78)" width="12" height="25" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient79" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2506" y="110" fill="url(#Gradient79)" width="162" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="2587" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">GifBitmapWrapperResourceDecoder</text>
+   <polyline fill="none" points="2587,158 2587,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient80" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2581" y="2330" fill="url(#Gradient80)" width="12" height="299" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient81" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2585" y="2354" fill="url(#Gradient81)" width="12" height="25" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient82" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2585" y="2398" fill="url(#Gradient82)" width="12" height="25" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient83" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2585" y="2442" fill="url(#Gradient83)" width="12" height="162" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient84" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2680" y="110" fill="url(#Gradient84)" width="123" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="2741" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">ImageVideoBitmapDecoder</text>
+   <polyline fill="none" points="2742,158 2742,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient85" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2736" y="2463" fill="url(#Gradient85)" width="12" height="122" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient86" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2815" y="110" fill="url(#Gradient86)" width="103" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="2866" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">StreamBitmapDecoder</text>
+   <polyline fill="none" points="2867,158 2867,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient87" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2861" y="2480" fill="url(#Gradient87)" width="12" height="93" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient88" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2930" y="110" fill="url(#Gradient88)" width="64" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="2962" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">Downsampler</text>
+   <polyline fill="none" points="2962,158 2962,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient89" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2956" y="2490" fill="url(#Gradient89)" width="12" height="26" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient90" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="3006" y="110" fill="url(#Gradient90)" width="78" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="3045" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">BitmapResource</text>
+   <polyline fill="none" points="3045,158 3045,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient91" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="3039" y="2540" fill="url(#Gradient91)" width="12" height="27" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient92" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="3096" y="110" fill="url(#Gradient92)" width="178" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="3185" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">GifBitmapWrapperDrawableTranscoder</text>
+   <polyline fill="none" points="3185,158 3185,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient93" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="3179" y="2803" fill="url(#Gradient93)" width="12" height="68" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient94" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="3286" y="110" fill="url(#Gradient94)" width="153" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="3362" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">GlideBitmapDrawableTranscoder</text>
+   <polyline fill="none" points="3363,158 3363,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient95" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="3357" y="2823" fill="url(#Gradient95)" width="12" height="30" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient96" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="3474" y="110" fill="url(#Gradient96)" width="148" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="3548" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">GlideDrawableImageViewTarget</text>
+   <polyline fill="none" points="3548,158 3548,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient97" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="3542" y="3195" fill="url(#Gradient97)" width="12" height="57" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient98" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="3542" y="3266" fill="url(#Gradient98)" width="12" height="43" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient99" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="3653" y="110" fill="url(#Gradient99)" width="83" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="3694" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">ImageViewTarget</text>
+   <polyline fill="none" points="3695,158 3695,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient100" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="3689" y="3229" fill="url(#Gradient100)" width="12" height="44" stroke="#000080" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient101" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ecf9ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="3753" y="110" fill="url(#Gradient101)" width="64" height="48" stroke="#0080ff" stroke-width="1"/>
+   <text x="3785" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle" text-decoration="underline">ImageView</text>
+   <polyline fill="none" points="3785,158 3785,3408" stroke="#0080ff" stroke-width="1" stroke-dasharray="3,3"/>
+   <defs>
+      <linearGradient id="Gradient102" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="3779" y="3304" fill="url(#Gradient102)" width="12" height="44" stroke="#000080" stroke-width="1"/>
+   <text x="1822" y="3121" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onResourceReady(Resource&lt;?&gt; resource)</text>
+   <text x="82" y="201" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">width(Activity a)</text>
+   <text x="2142" y="3022" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onResourceReady(final Resource&lt;?&gt; </text>
+   <text x="2142" y="3032" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">resource)</text>
+   <text x="1497" y="1447" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">begin()</text>
+   <text x="1269" y="1433" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">runRequest(Request request)</text>
+   <text x="730" y="1126" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildTarget(ImageView view, Class&lt;Z&gt; clazz)</text>
+   <text x="1029" y="984" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">load(String url）</text>
+   <text x="721" y="970" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">load(String url）</text>
+   <text x="577" y="923" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回DrawableTypeRequest对象</text>
+   <text x="595" y="891" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回DrawableTypeRequest对象</text>
+   <text x="370" y="790" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildModelLoader()</text>
+   <text x="193" y="755" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildModelLoader</text>
+   <text x="460" y="535" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">setRequestManager</text>
+   <text x="1136" y="1079" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">into(ImageView view)</text>
+   <text x="3666" y="3301" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">setImageDrawable(Drawable drawable)</text>
+   <text x="3594" y="3258" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">setResource(GlideDrawable resource)</text>
+   <text x="3621" y="3226" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onResourceReady(Z resource, GlideAnimation&lt;? super Z&gt; glideAnimation)</text>
+   <text x="2546" y="3192" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onResourceReady(GlideDrawable resource, GlideAnimation&lt;? super GlideDrawable&gt; animation)</text>
+   <text x="1688" y="3168" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onResourceReady(Resource&lt;?&gt; resource, R result)</text>
+   <text x="1989" y="1799" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">addCallback(ResourceCallback callback)，这个参数其实就是GenericRequest</text>
+   <text x="2151" y="3099" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">发送一个异步消息转到主线程，最终执行handleResultOnMainThread()方法</text>
+   <text x="2297" y="2990" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onLoadComplete(Resource resource)</text>
+   <text x="2227" y="2928" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GlideBitmapDrawableResource</text>
+   <text x="2731" y="2867" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GlideBitmapDrawableResource对象</text>
+   <text x="3277" y="2850" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GlideBitmapDrawableResource</text>
+   <text x="3311" y="2815" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">transcode(Resource&lt;Bitmap&gt; toTranscode)</text>
+   <text x="2727" y="2800" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">transcode(Resource&lt;GifBitmapWrapper&gt; toTranscode)</text>
+   <text x="2358" y="2773" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">transcode（）</text>
+   <text x="2315" y="2716" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">transformEncodeAndTranscode(Resource&lt;T&gt; decoded)</text>
+   <text x="2434" y="2625" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GifBitmapWrapperResource对象</text>
+   <text x="2669" y="2581" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GifBitmapWrapper对象</text>
+   <text x="2804" y="2565" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回BitmapResource对象</text>
+   <text x="2959" y="2563" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回BitmapResource对象</text>
+   <text x="2956" y="2536" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">obtain（）</text>
+   <text x="2918" y="2513" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回Bitmap对象</text>
+   <text x="2914" y="2487" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decode()</text>
+   <text x="2804" y="2476" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decode()</text>
+   <text x="2666" y="2460" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decode()</text>
+   <text x="2663" y="2431" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decodeBitmapWrapper()</text>
+   <text x="2646" y="2389" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decodeStream（）</text>
+   <text x="2635" y="2346" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decode（）</text>
+   <text x="2430" y="2316" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decode(ImageVideoWrapper source, int </text>
+   <text x="2430" y="2326" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">width, int height)</text>
+   <text x="1958" y="2309" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GifBitmapWrapperResourceDecoder对象</text>
+   <text x="1962" y="2269" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getSourceDecoder()</text>
+   <text x="2348" y="2247" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decodeFromSourceData()</text>
+   <text x="2316" y="2197" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回ImageVideoWrapper</text>
+   <text x="2402" y="2169" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回InputStream</text>
+   <text x="2548" y="2142" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getStreamForSuccessfulRequest()</text>
+   <text x="2526" y="2094" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">loadDataWithRedirects()</text>
+   <text x="2406" y="2053" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">loadData(Priority priority)</text>
+   <text x="2313" y="2031" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">loadData(Priority priority)</text>
+   <text x="2329" y="1993" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decodeSource()</text>
+   <text x="2258" y="1956" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decodeFromSource()</text>
+   <text x="2312" y="1930" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decodeFromSource()</text>
+   <text x="2231" y="1881" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">decode()</text>
+   <text x="2142" y="1853" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">run()方法</text>
+   <text x="1990" y="1839" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">start(EngineRunnable engineRunnable)</text>
+   <text x="1938" y="1773" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回EngineJob对象</text>
+   <text x="1935" y="1750" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">build()</text>
+   <text x="1711" y="1746" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">load()</text>
+   <text x="1661" y="1631" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回ImageVideoFetcher对象</text>
+   <text x="1369" y="1608" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回HttpUrlFetcher对象</text>
+   <text x="1372" y="1579" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getResourceFetcher(String model, int width, int height)</text>
+   <text x="1659" y="1557" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getResourceFetcher()</text>
+   <text x="1600" y="1716" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GifBitmapWrapperDrawableTranscoder对象</text>
+   <text x="1597" y="1674" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getTranscoder()</text>
+   <text x="1601" y="1538" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回ImageVideoModelLoader对象</text>
+   <text x="1594" y="1506" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getModelLoader()</text>
+   <text x="1599" y="1482" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">onSizeReady()</text>
+   <text x="1201" y="1397" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GenericRequest对象</text>
+   <text x="1201" y="1299" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">obtainRequest()</text>
+   <text x="1222" y="1261" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildRequestRecursive()</text>
+   <text x="1199" y="1227" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildRequest()</text>
+   <text x="1144" y="1181" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">into(Y target)</text>
+   <text x="1212" y="1152" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回GlideDrawableImageViewTarget对象</text>
+   <text x="236" y="344" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">get(Activity activity)</text>
+   <text x="608" y="1100" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildImageViewTarget(ImageView imageView, Class&lt;R&gt; transcodedClass)</text>
+   <text x="618" y="1043" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">into(ImageView view)</text>
+   <text x="760" y="809" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getFactory()</text>
+   <text x="245" y="1010" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回DrawableTypeRequest对象</text>
+   <text x="776" y="880" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回StreamStringLoader对象</text>
+   <text x="764" y="847" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">build</text>
+   <text x="304" y="719" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">buildStreamModelLoader</text>
+   <text x="529" y="681" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">loadGeneric()</text>
+   <text x="519" y="633" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">fromString()</text>
+   <text x="249" y="606" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">load(String url)</text>
+   <text x="231" y="572" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回RequestManager对象</text>
+   <text x="404" y="496" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回RequestManager对象</text>
+   <text x="517" y="454" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">RequestManager(Context, Lifecycle, RequestManagerTreeNode)</text>
+   <text x="431" y="414" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">getRequestManagerFragment()</text>
+   <text x="398" y="381" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">fragmentGet</text>
+   <text x="232" y="289" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">返回RequestManagerRetriever实列对象</text>
+   <text x="234" y="268" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">get()</text>
+</svg>
