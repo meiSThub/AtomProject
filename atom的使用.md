@@ -32,7 +32,7 @@ language-markdown
       [markdown基本语法](https://www.jianshu.com/p/f3fd881548ad)
 
      如果你是要链接到同样主机的资源，你可以使用相对路径：
-      [本地图片](C:/Users/akulaku/Desktop/ic_adjust_limit_top_bg.png)
+      [本地图片](C:/Users/Desktop/ic_adjust_limit_top_bg.png)
   2. 参考式的链接是在链接文字的括号后面再接上另一个方括号，而在第二个方括号里面要填入用以辨识链接的标记，接着，在文件的任意处，你可以把这个标记的链接内容定义出来：
 
       - [1] :https://www.jianshu.com/p/f3fd881548ad
