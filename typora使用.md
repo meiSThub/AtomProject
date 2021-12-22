@@ -4,3 +4,4 @@
 
 ![image-20210907115444760](https://gitee.com/meiSThub/BlogImage/raw/master/2020/image-20210907115444760.png)
 
+[beta版本不收费](https://typora.io/releases/all)
