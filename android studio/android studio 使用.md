@@ -1,4 +1,4 @@
-#### android studio 常用快捷键
+## android studio 常用快捷键
 | 功能             | windows                | mac                  |
 | ---------------- | ---------------------- | -------------------- |
 | 行注释           | ctrl + /               | command + /          |
@@ -17,3 +17,17 @@
 | 隐藏所有窗口     | Ctrl + shift + F12     | Cmd + Shift + F12    |
 | 参数提示         | Ctrl + P               | CMD + P              |
 |                  |                        |                      |
+
+
+
+## 常用设置
+
+### 单行注释格式化时的缩进处理
+
+java
+
+![image-20221201150501743](https://raw.githubusercontent.com/meiSThub/BlogImage/master/2022/image-20221201150501743.png)
+
+groovy：
+
+![image-20221201150849150](https://raw.githubusercontent.com/meiSThub/BlogImage/master/2022/image-20221201150849150.png)
